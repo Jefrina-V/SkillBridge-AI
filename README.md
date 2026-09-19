@@ -176,6 +176,14 @@ skillbridge-ai/
 
 ---
 
+## 🚀 Live Demo
+
+Try SkillBridge AI here:
+
+👉 **[Open SkillBridge AI](https://skillbridge-ai-3400.ai.studio)**
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
